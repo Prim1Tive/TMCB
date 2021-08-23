@@ -5,6 +5,7 @@ Welcome to Themarker Caf`e backupper by Prim1Tive
 `בעצם תוכנה שעוזרת לפשוטי העם לגבות את הבלוג שלהם בעקבות סגירת פינת הבלוגים של TheMarker`
  
 הורידו את התוכנה מכאן https://github.com/Prim1Tive/TMCB/raw/main/TMCBv0.4%20Requests/TMCPv0.4.exe
+
 מדריך קצר למציאת מספר הבלוג
 > פתחו את הקובץ TMCBv0.4.exe
 
