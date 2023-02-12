@@ -1,3 +1,4 @@
+NOT WORKING // לא עובד
 
 #Welcome to Themarker Caf`e backupper by Prim1Tive
 
@@ -6,5 +7,5 @@
 example for blog link:
 http://cafe.themarker.com/blog/16275/
 
-blog number:
+example for blog number:
 16275
