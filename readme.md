@@ -1,4 +1,8 @@
 NOT WORKING // לא עובד
+כיוון ש Themarker Caf`e נסגר הפרוייקט הזה כבר לא יכול להיות משומש.
+Since Themarker Caf`e is closed this project can no longer be used.
+
+
 
 #Welcome to Themarker Caf`e backupper by Prim1Tive
 
