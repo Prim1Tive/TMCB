@@ -1,6 +1,8 @@
+```
 NOT WORKING // לא עובד
-כיוון ש Themarker Cafe נסגר הפרוייקט הזה כבר לא יכול להיות משומש.
-Since Themarker Cafe is closed this project can no longer be used.
+כיוון ש Themarker Cafe נסגר הפרוייקט הזה כבר לא רלוונטי אך נשאר לצורך ארכון
+
+Since Themarker Cafe is closed, this project is no longer relevant but remains for archival purposes
 
 
 
@@ -8,7 +10,7 @@ Since Themarker Cafe is closed this project can no longer be used.
 
 ממליץ על הריסא הרביעית היא יותר מהירה מהשאר
 
-```
+
 example for blog link:
 http://cafe.themarker.com/blog/16275/
 
